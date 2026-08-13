@@ -13,7 +13,7 @@ git init
 ### checking status of repository
 git status
 
-## Stage index.html and about.txt, then commit them with a meaningful commit message.
+### Stage index.html and about.txt, then commit them with a meaningful commit message.
 ### adding file to staging area
 git add index.html
 
