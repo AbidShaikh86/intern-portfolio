@@ -1,6 +1,7 @@
 ## git configuration Part
 
 git config --global user.name "AbidShaikh86"
+
 git config --global user.email "abidshaikh.86@gmail.com"
 
 ## git initialization
