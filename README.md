@@ -60,19 +60,4 @@ git commit -m "adding new feature contact"
 
 git push -u origin feature-contact  
 
-![alt text](<Screenshot (10).png>)
-![alt text](<Screenshot (11).png>) 
-![alt text](<Screenshot (12).png>) 
-![alt text](<Screenshot (13).png>) 
-![alt text](<Screenshot (14).png>) 
-![alt text](<Screenshot (15).png>) 
-![alt text](<Screenshot (16).png>) 
-![alt text](<Screenshot (17).png>) 
-![alt text](<Screenshot (18).png>)
-![alt text](<Screenshot (19).png>) 
-![alt text](<Screenshot (20).png>) 
-![alt text](<Screenshot (21).png>) 
-![alt text](<Screenshot (22).png>) 
-![alt text](<Screenshot (23).png>) 
-![alt text](<Screenshot (24).png>) 
-![alt text](<Screenshot (25).png>)
+
